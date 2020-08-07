@@ -1,5 +1,5 @@
 class example<T> {
-    constructor() {
-        console.log('play ground');
-    }
+  constructor() {
+    console.log('play ground');
+  }
 }
